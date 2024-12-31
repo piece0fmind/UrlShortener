@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cuFgItM9PnA74SIGZ7/PAg7IXq4Rku1gPes93ot1ic8=",
+  "Source": "ShortURL.Web",
+  "BasePath": "_content/ShortURL.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

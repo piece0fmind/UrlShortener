@@ -1,0 +1,14 @@
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\bin\Debug\net8.0\ShortURL.Application.deps.json
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\bin\Debug\net8.0\ShortURL.Application.runtimeconfig.json
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\bin\Debug\net8.0\ShortURL.Application.dll
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\bin\Debug\net8.0\ShortURL.Application.pdb
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.csproj.AssemblyReference.cache
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.AssemblyInfoInputs.cache
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.AssemblyInfo.cs
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.dll
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\refint\ShortURL.Application.dll
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.pdb
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ShortURL.Application.genruntimeconfig.cache
+C:\Users\Bibek Neupane\source\repos\ShortURL\ShortURL.Application\obj\Debug\net8.0\ref\ShortURL.Application.dll
