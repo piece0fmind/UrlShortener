@@ -3,5 +3,7 @@
 
 
 # Ignore build output directories
-bin/
-obj/
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
